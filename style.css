@@ -1,0 +1,23 @@
+.wrap		{padding:20px;}
+.wrap input[type="text"] 	{	border:1px solid #ccc}
+
+
+/* Color settings */
+#colors			{	background:url( images/color-fill.png) no-repeat}
+#color-section	{	width:600px;}
+.palette		{	line-height:25px;padding-top:0px;position:relative;width:400px;}
+.colorwell		{	position:absolute;right:0px;width: 75px;}
+
+/*Images settings*/
+#images			{	background:url( images/pictures.png) no-repeat;position:relative;}
+#images-section	{	width:615px;}
+.img-url		{	line-height:25px;padding-top:5px;position:relative;}
+.img-url input[type="text"]	{	position:absolute;right:0;}
+
+/* Alignment settings*/
+#alignment			{	background:url( images/align.png) no-repeat;position:relative;}
+#alignment-section	{	width:615px;}
+
+/* Donation box */
+#donation		{	background: #DFFFCF;border:1px solid #B5E8B5;font-size:11px;height:20px;padding:5px 15px;position:relative;}
+#donation  form	{	top:0;right:15px;margin:0;position:absolute;}	
